@@ -33,7 +33,8 @@ To download the pre-trained YOLOv3 weights and configuration files, you can use 
 ruby
 
 wget https://pjreddie.com/media/files/yolov3.weights
-wget https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg?raw=true-O yolov3.cfg
+wget https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg?raw=true -O yolov3.cfg
+
 Once you have downloaded the required files and installed the necessary libraries, you can run the script to perform object detection on an image or video.
 
 Example usage:
